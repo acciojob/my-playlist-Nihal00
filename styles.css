@@ -1,1 +1,37 @@
-/*  your css code here. If applicable */
+body {
+	background-color: #cccccc;
+	font-family: sans-serif;
+}
+
+h1, h3 {
+	text-align: center;
+}
+
+.player_one {
+	background-color: rgb(255, 255, 255);
+	padding: 15px 0;
+	border-radius: 10px;
+}
+ul li {
+	list-style: none;
+	padding-top: 5px;
+}
+
+ul li a {
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+h3 {
+	margin: 0;
+}
+.player_two {
+	padding: 15px;
+	background: #fff;
+	width: 325px;
+	margin: 10px auto;
+	border-radius: 10px;
+}
+
+
+
